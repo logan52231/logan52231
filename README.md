@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @logan52231
+- 👀 I’m interested in ... finding tutorials on beginner intors to c#
+- 🌱 I’m currently learning ...how to write in c# (im very bad)
+- 📫 How to reach me ... loganshockeypuck@gmail.com is my main email
